@@ -11,23 +11,29 @@ popular lists on the website which a later rating system could be implemented to
 ###1. Open Panel
       - Upload Schedule
       - Back Button (Goes back to the previous page)
+      
 ###2. Home
       - Back Button (Goes back to the previous page)
+      
 ###3. Random
       - Back Button (Goes back to the previous page)
       - Favorite This Page Button (Allows the user to favorite the page)
+      
 ###4. Contact
       - Back Button (Goes back to the previous page)
       - Contact Form
         - Store Data Button (Stores the data entered into the form locally in the browser if it is compatible with the browser)
         - Show Info Button (Shows the info that was stored locally in the broweser if it is compatible with the browser)
+        
 ###5. Ordered List
       - Back Button (Goes back to the previous page)
       - Interesting Random Facts (Contains a list of 10 random facts)
+      
 ###6. Unordered List
       - Back Button (Goes back to the previous page)
       - Interesting Random Facts (Contains a list of 10 random facts)
       - Rating Scale Buttons (Contains 5 buttons that allows the user to select their level of satisfaction with the current list on the page)
+      
 ###7. Grid
       - Back Button (Goes back to the previous page)
       - Rating Scale Buttons (Contains a demo of 5 buttons that allows the user to select their level of satisfaction)
